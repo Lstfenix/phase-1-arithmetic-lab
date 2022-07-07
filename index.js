@@ -1,2 +1,5 @@
 
-// Write your code here
+Math.random() * 10 + 2;
+
+
+
